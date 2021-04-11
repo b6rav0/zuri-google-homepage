@@ -174,11 +174,13 @@ footer div.main-footer-content div.column:last-of-type a {
 
     section.body-content div.container {
         width: 90%;
-        height: 1.5em;
+        height: 2em;
+        margin-top: 10%;
         padding: 0 2%;
     }
 
     section.body-content div.container svg {
+        flex: 10%;
         width: 1.5em;
         height: 1.5em;
     }
